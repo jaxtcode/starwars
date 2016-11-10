@@ -1,0 +1,28 @@
+/* header */
+header {
+	background-color: #f0bd35;
+	margin-bottom: 0px;
+}
+
+header h1 {
+	margin-bottom: 0;
+	line-height: 1;
+}
+
+header p {
+	margin-top: 0.5em;
+}
+
+/* main */
+.card {
+	border: 1px solid grey;
+	margin-bottom: 30px;
+}
+
+.picture {
+	width: 100%;
+}
+
+.info {
+	padding-left: 20px;
+}
